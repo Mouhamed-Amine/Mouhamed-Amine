@@ -48,7 +48,7 @@
     
   <img width=390 src="https://streak-stats.demolab.com?user=Mouhamed-Amine&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="streak stats"/>
   
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mouhamed-Amine)](https://github.com/anuraghazra/github-readme-stats" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mouhamed-Amine&theme=highcontrast&hide_border=true&show_icons=true" alt="readme stats" />
 
 </div>
 
