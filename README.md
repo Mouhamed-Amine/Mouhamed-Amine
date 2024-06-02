@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Psychology Application using Flutter** **Challenges of FrontEnd Mentor**
  
- 🌱 I’m currently learning **Flutter, TerraForm, Ansible**
+ 🌱 I’m currently learning **Flutter, TerraForm, NextJS, SEO and Wordpress**
  
   💬 Ask me about **Node.js, Angular, Firebase... or anything [here](https://github.com/Mouhamed-Amine/Mouhamed-Amine/issues)**
 
